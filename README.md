@@ -1,5 +1,6 @@
 # IA
 Diogo C. Volpato e Matheus H. Piana
+
 Em primeira instância baixamos packs das imagens, e pros 
 algoritmos que não encontramos packs prontos baixamos as 
 imagens manualmente;
